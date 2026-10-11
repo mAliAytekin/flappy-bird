@@ -1,0 +1,34 @@
+[
+  {
+    "dosya": "res://data/levels/cati_01.json",
+    "onceki": ""
+  },
+  {
+    "dosya": "res://data/levels/cati_02.json",
+    "onceki": "CATI_01"
+  },
+  {
+    "dosya": "res://data/levels/cati_03.json",
+    "onceki": "CATI_02"
+  },
+  {
+    "dosya": "res://data/levels/cati_04.json",
+    "onceki": "CATI_03"
+  },
+  {
+    "dosya": "res://data/levels/liman_01.json",
+    "onceki": "CATI_04"
+  },
+  {
+    "dosya": "res://data/levels/liman_02.json",
+    "onceki": "LIMAN_01"
+  },
+  {
+    "dosya": "res://data/levels/liman_03.json",
+    "onceki": "LIMAN_02"
+  },
+  {
+    "dosya": "res://data/levels/liman_04.json",
+    "onceki": "LIMAN_03"
+  }
+]

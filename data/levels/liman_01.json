@@ -1,0 +1,322 @@
+{
+  "sema_surumu": 1,
+  "kimlik": "LIMAN_01",
+  "ad": "Esinti",
+  "ipucu": "Oklar rüzgârın yönünü gösterir. Önce geniş alanda akıntıyı hisset.",
+  "bolge": "liman",
+  "uzunluk": 11200,
+  "deger_hedefi": 6,
+  "ozel_esya_adi": "Deniz kabuğu",
+  "nesneler": [
+    {
+      "kimlik": "liman_nesne_0",
+      "tur": "baca",
+      "x": 1300,
+      "y": 68.75,
+      "w": 76,
+      "h": 137.5
+    },
+    {
+      "kimlik": "liman_nesne_1",
+      "tur": "baca",
+      "x": 1300,
+      "y": 466.25,
+      "w": 76,
+      "h": 87.5
+    },
+    {
+      "kimlik": "liman_nesne_2",
+      "tur": "ganimet",
+      "x": 1450,
+      "y": 280,
+      "esya": "kasik"
+    },
+    {
+      "kimlik": "liman_nesne_3",
+      "tur": "baca",
+      "x": 2080,
+      "y": 56.25,
+      "w": 76,
+      "h": 112.5
+    },
+    {
+      "kimlik": "liman_nesne_4",
+      "tur": "baca",
+      "x": 2080,
+      "y": 453.75,
+      "w": 76,
+      "h": 112.5
+    },
+    {
+      "kimlik": "liman_nesne_5",
+      "tur": "ganimet",
+      "x": 2230,
+      "y": 255,
+      "esya": "kapak"
+    },
+    {
+      "kimlik": "liman_nesne_6",
+      "tur": "baca",
+      "x": 2860,
+      "y": 76.25,
+      "w": 76,
+      "h": 152.5
+    },
+    {
+      "kimlik": "liman_nesne_7",
+      "tur": "baca",
+      "x": 2860,
+      "y": 473.75,
+      "w": 76,
+      "h": 72.5
+    },
+    {
+      "kimlik": "liman_nesne_8",
+      "tur": "ganimet",
+      "x": 3010,
+      "y": 295,
+      "esya": "kapak"
+    },
+    {
+      "kimlik": "liman_nesne_9",
+      "tur": "baca",
+      "x": 3640,
+      "y": 68.75,
+      "w": 76,
+      "h": 137.5
+    },
+    {
+      "kimlik": "liman_nesne_10",
+      "tur": "baca",
+      "x": 3640,
+      "y": 466.25,
+      "w": 76,
+      "h": 87.5
+    },
+    {
+      "kimlik": "liman_nesne_11",
+      "tur": "ganimet",
+      "x": 3790,
+      "y": 280,
+      "esya": "kasik"
+    },
+    {
+      "kimlik": "liman_nesne_12",
+      "tur": "baca",
+      "x": 4420,
+      "y": 56.25,
+      "w": 76,
+      "h": 112.5
+    },
+    {
+      "kimlik": "liman_nesne_13",
+      "tur": "baca",
+      "x": 4420,
+      "y": 453.75,
+      "w": 76,
+      "h": 112.5
+    },
+    {
+      "kimlik": "liman_nesne_14",
+      "tur": "ganimet",
+      "x": 4570,
+      "y": 255,
+      "esya": "kapak"
+    },
+    {
+      "kimlik": "liman_nesne_15",
+      "tur": "baca",
+      "x": 5200,
+      "y": 76.25,
+      "w": 76,
+      "h": 152.5
+    },
+    {
+      "kimlik": "liman_nesne_16",
+      "tur": "baca",
+      "x": 5200,
+      "y": 473.75,
+      "w": 76,
+      "h": 72.5
+    },
+    {
+      "kimlik": "liman_nesne_17",
+      "tur": "ganimet",
+      "x": 5350,
+      "y": 295,
+      "esya": "kapak"
+    },
+    {
+      "kimlik": "liman_nesne_18",
+      "tur": "baca",
+      "x": 5980,
+      "y": 68.75,
+      "w": 76,
+      "h": 137.5
+    },
+    {
+      "kimlik": "liman_nesne_19",
+      "tur": "baca",
+      "x": 5980,
+      "y": 466.25,
+      "w": 76,
+      "h": 87.5
+    },
+    {
+      "kimlik": "liman_nesne_20",
+      "tur": "ganimet",
+      "x": 6130,
+      "y": 280,
+      "esya": "kasik"
+    },
+    {
+      "kimlik": "liman_nesne_21",
+      "tur": "baca",
+      "x": 6760,
+      "y": 56.25,
+      "w": 76,
+      "h": 112.5
+    },
+    {
+      "kimlik": "liman_nesne_22",
+      "tur": "baca",
+      "x": 6760,
+      "y": 453.75,
+      "w": 76,
+      "h": 112.5
+    },
+    {
+      "kimlik": "liman_nesne_23",
+      "tur": "ganimet",
+      "x": 6910,
+      "y": 255,
+      "esya": "kapak"
+    },
+    {
+      "kimlik": "liman_nesne_24",
+      "tur": "baca",
+      "x": 8320,
+      "y": 68.75,
+      "w": 76,
+      "h": 137.5
+    },
+    {
+      "kimlik": "liman_nesne_25",
+      "tur": "baca",
+      "x": 8320,
+      "y": 466.25,
+      "w": 76,
+      "h": 87.5
+    },
+    {
+      "kimlik": "liman_nesne_26",
+      "tur": "ganimet",
+      "x": 8470,
+      "y": 280,
+      "esya": "kasik"
+    },
+    {
+      "kimlik": "liman_nesne_27",
+      "tur": "baca",
+      "x": 9100,
+      "y": 56.25,
+      "w": 76,
+      "h": 112.5
+    },
+    {
+      "kimlik": "liman_nesne_28",
+      "tur": "baca",
+      "x": 9100,
+      "y": 453.75,
+      "w": 76,
+      "h": 112.5
+    },
+    {
+      "kimlik": "liman_nesne_29",
+      "tur": "ganimet",
+      "x": 9250,
+      "y": 255,
+      "esya": "kapak"
+    },
+    {
+      "kimlik": "liman_nesne_30",
+      "tur": "baca",
+      "x": 9880,
+      "y": 76.25,
+      "w": 76,
+      "h": 152.5
+    },
+    {
+      "kimlik": "liman_nesne_31",
+      "tur": "baca",
+      "x": 9880,
+      "y": 473.75,
+      "w": 76,
+      "h": 72.5
+    },
+    {
+      "kimlik": "liman_nesne_32",
+      "tur": "ganimet",
+      "x": 10030,
+      "y": 295,
+      "esya": "kapak"
+    },
+    {
+      "kimlik": "liman_nesne_33",
+      "tur": "ruzgar",
+      "x": 740,
+      "y": 275,
+      "w": 460,
+      "h": 330,
+      "kuvvet": -160
+    },
+    {
+      "kimlik": "liman_nesne_34",
+      "tur": "ruzgar",
+      "x": 2800,
+      "y": 280,
+      "w": 560,
+      "h": 340,
+      "kuvvet": -210
+    },
+    {
+      "kimlik": "liman_nesne_35",
+      "tur": "ruzgar",
+      "x": 5000,
+      "y": 280,
+      "w": 560,
+      "h": 340,
+      "kuvvet": 180
+    },
+    {
+      "kimlik": "liman_nesne_36",
+      "tur": "ruzgar",
+      "x": 9400,
+      "y": 280,
+      "w": 560,
+      "h": 340,
+      "kuvvet": 180
+    },
+    {
+      "kimlik": "liman_nesne_37",
+      "tur": "yuva",
+      "x": 7280,
+      "y": 424,
+      "son": false
+    },
+    {
+      "kimlik": "liman_nesne_38",
+      "tur": "ozel_esya",
+      "x": 10420,
+      "y": 135
+    },
+    {
+      "kimlik": "liman_nesne_39",
+      "tur": "yuva",
+      "x": 11020,
+      "y": 270,
+      "son": true
+    }
+  ],
+  "ozel_esya_turu": "kabuk"
+}

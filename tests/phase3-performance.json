@@ -1,0 +1,13 @@
+{
+  "bolum": "LIMAN_04",
+  "cozunurluk": "1280x720",
+  "godot": "4.7.2-stable (official)",
+  "gpu": "Apple M3 Max",
+  "kare": 480,
+  "konum": 2960.0,
+  "medyan_ms": 9.147,
+  "not": "Gerçek pencerede yoğun görünür sahne, 120 ısınma + 480 ölçüm karesi; bütün cihazlar için garanti değildir.",
+  "ortalama_fps": 119.966259489519,
+  "p95_islem_ms": 54.456,
+  "p95_ms": 14.845
+}

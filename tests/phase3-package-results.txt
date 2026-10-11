@@ -1,0 +1,3 @@
+Godot Engine v4.7.2.stable.official.ed1daf0bf - https://godotengine.org
+
+PAKET OK: 8 bölüm ve ayarlar/yuva açıldı; ham varlık ve testler paket dışında.

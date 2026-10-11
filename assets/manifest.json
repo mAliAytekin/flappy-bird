@@ -1,0 +1,442 @@
+{
+  "surum": 2,
+  "varliklar": [
+    {
+      "dosya": "res://scripts/game.gd",
+      "tur": "ses",
+      "kaynak": "Proje için matematiksel sinüs dalgası sentezi",
+      "durum": "Prototip efektleri",
+      "tarih": "2026-10-11"
+    },
+    {
+      "dosya": "res://assets/art/crow_0.png",
+      "tur": "gorsel",
+      "kaynak": "Higgsfield / GPT Image 2.5",
+      "is_kimligi": "3a66f57b-031d-4929-899d-8835cda6a5ae",
+      "referans_is_kimligi": "76e887f9-e3f8-4890-b40a-6dd421445349",
+      "kaynak_dosya": "assets/art/source/crow_alpha.png",
+      "tarih": "2026-10-11",
+      "boyut": [
+        64,
+        64
+      ],
+      "durum": "Oyuna eklendi; oyun içi görünüm kontrol edildi",
+      "isleme": "tools/prepare_art.py: atlas çıkarma, hizalama, alfa eşiği, nearest-neighbor ölçekleme",
+      "kullanim_hakki": "Bağlı Higgsfield hesabında üretildi; ayrı bir lisans belgesi alınmadı."
+    },
+    {
+      "dosya": "res://assets/art/crow_1.png",
+      "tur": "gorsel",
+      "kaynak": "Higgsfield / GPT Image 2.5",
+      "is_kimligi": "3a66f57b-031d-4929-899d-8835cda6a5ae",
+      "referans_is_kimligi": "76e887f9-e3f8-4890-b40a-6dd421445349",
+      "kaynak_dosya": "assets/art/source/crow_alpha.png",
+      "tarih": "2026-10-11",
+      "boyut": [
+        64,
+        64
+      ],
+      "durum": "Oyuna eklendi; oyun içi görünüm kontrol edildi",
+      "isleme": "tools/prepare_art.py: atlas çıkarma, hizalama, alfa eşiği, nearest-neighbor ölçekleme",
+      "kullanim_hakki": "Bağlı Higgsfield hesabında üretildi; ayrı bir lisans belgesi alınmadı."
+    },
+    {
+      "dosya": "res://assets/art/crow_2.png",
+      "tur": "gorsel",
+      "kaynak": "Higgsfield / GPT Image 2.5",
+      "is_kimligi": "3a66f57b-031d-4929-899d-8835cda6a5ae",
+      "referans_is_kimligi": "76e887f9-e3f8-4890-b40a-6dd421445349",
+      "kaynak_dosya": "assets/art/source/crow_alpha.png",
+      "tarih": "2026-10-11",
+      "boyut": [
+        64,
+        64
+      ],
+      "durum": "Oyuna eklendi; oyun içi görünüm kontrol edildi",
+      "isleme": "tools/prepare_art.py: atlas çıkarma, hizalama, alfa eşiği, nearest-neighbor ölçekleme",
+      "kullanim_hakki": "Bağlı Higgsfield hesabında üretildi; ayrı bir lisans belgesi alınmadı."
+    },
+    {
+      "dosya": "res://assets/art/crow_3.png",
+      "tur": "gorsel",
+      "kaynak": "Higgsfield / GPT Image 2.5",
+      "is_kimligi": "3a66f57b-031d-4929-899d-8835cda6a5ae",
+      "referans_is_kimligi": "76e887f9-e3f8-4890-b40a-6dd421445349",
+      "kaynak_dosya": "assets/art/source/crow_alpha.png",
+      "tarih": "2026-10-11",
+      "boyut": [
+        64,
+        64
+      ],
+      "durum": "Oyuna eklendi; oyun içi görünüm kontrol edildi",
+      "isleme": "tools/prepare_art.py: atlas çıkarma, hizalama, alfa eşiği, nearest-neighbor ölçekleme",
+      "kullanim_hakki": "Bağlı Higgsfield hesabında üretildi; ayrı bir lisans belgesi alınmadı."
+    },
+    {
+      "dosya": "res://assets/art/rooftops.png",
+      "tur": "gorsel",
+      "kaynak": "Higgsfield / GPT Image 2.5",
+      "is_kimligi": "934a76f6-560b-4fb0-8562-201b47ff0173",
+      "referans_is_kimligi": null,
+      "kaynak_dosya": "assets/art/source/rooftops.png",
+      "tarih": "2026-10-11",
+      "boyut": [
+        1920,
+        540
+      ],
+      "durum": "Oyuna eklendi; oyun içi görünüm kontrol edildi",
+      "isleme": "tools/prepare_art.py: atlas çıkarma, hizalama, alfa eşiği, nearest-neighbor ölçekleme",
+      "kullanim_hakki": "Bağlı Higgsfield hesabında üretildi; ayrı bir lisans belgesi alınmadı."
+    },
+    {
+      "dosya": "res://assets/art/cap.png",
+      "tur": "gorsel",
+      "kaynak": "Higgsfield / GPT Image 2.5",
+      "is_kimligi": "0de25278-69b1-4633-8c11-b39e8b3fd4e8",
+      "referans_is_kimligi": "76e887f9-e3f8-4890-b40a-6dd421445349",
+      "kaynak_dosya": "assets/art/source/props.png",
+      "tarih": "2026-10-11",
+      "boyut": [
+        24,
+        24
+      ],
+      "durum": "Oyuna eklendi; oyun içi görünüm kontrol edildi",
+      "isleme": "tools/prepare_art.py: atlas çıkarma, hizalama, alfa eşiği, nearest-neighbor ölçekleme",
+      "kullanim_hakki": "Bağlı Higgsfield hesabında üretildi; ayrı bir lisans belgesi alınmadı."
+    },
+    {
+      "dosya": "res://assets/art/spoon.png",
+      "tur": "gorsel",
+      "kaynak": "Higgsfield / GPT Image 2.5",
+      "is_kimligi": "0de25278-69b1-4633-8c11-b39e8b3fd4e8",
+      "referans_is_kimligi": "76e887f9-e3f8-4890-b40a-6dd421445349",
+      "kaynak_dosya": "assets/art/source/props.png",
+      "tarih": "2026-10-11",
+      "boyut": [
+        32,
+        32
+      ],
+      "durum": "Oyuna eklendi; oyun içi görünüm kontrol edildi",
+      "isleme": "tools/prepare_art.py: atlas çıkarma, hizalama, alfa eşiği, nearest-neighbor ölçekleme",
+      "kullanim_hakki": "Bağlı Higgsfield hesabında üretildi; ayrı bir lisans belgesi alınmadı."
+    },
+    {
+      "dosya": "res://assets/art/chimney.png",
+      "tur": "gorsel",
+      "kaynak": "Higgsfield / GPT Image 2.5",
+      "is_kimligi": "0de25278-69b1-4633-8c11-b39e8b3fd4e8",
+      "referans_is_kimligi": "76e887f9-e3f8-4890-b40a-6dd421445349",
+      "kaynak_dosya": "assets/art/source/props.png",
+      "tarih": "2026-10-11",
+      "boyut": [
+        32,
+        32
+      ],
+      "durum": "Oyuna eklendi; oyun içi görünüm kontrol edildi",
+      "isleme": "tools/prepare_art.py: atlas çıkarma, hizalama, alfa eşiği, nearest-neighbor ölçekleme",
+      "kullanim_hakki": "Bağlı Higgsfield hesabında üretildi; ayrı bir lisans belgesi alınmadı."
+    },
+    {
+      "dosya": "res://assets/art/chimney_cap.png",
+      "tur": "gorsel",
+      "kaynak": "Higgsfield / GPT Image 2.5",
+      "is_kimligi": "0de25278-69b1-4633-8c11-b39e8b3fd4e8",
+      "referans_is_kimligi": "76e887f9-e3f8-4890-b40a-6dd421445349",
+      "kaynak_dosya": "assets/art/source/props.png",
+      "tarih": "2026-10-11",
+      "boyut": [
+        64,
+        24
+      ],
+      "durum": "Oyuna eklendi; oyun içi görünüm kontrol edildi",
+      "isleme": "tools/prepare_art.py: atlas çıkarma, hizalama, alfa eşiği, nearest-neighbor ölçekleme",
+      "kullanim_hakki": "Bağlı Higgsfield hesabında üretildi; ayrı bir lisans belgesi alınmadı."
+    },
+    {
+      "dosya": "res://assets/art/nest.png",
+      "tur": "gorsel",
+      "kaynak": "Higgsfield / GPT Image 2.5",
+      "is_kimligi": "0de25278-69b1-4633-8c11-b39e8b3fd4e8",
+      "referans_is_kimligi": "76e887f9-e3f8-4890-b40a-6dd421445349",
+      "kaynak_dosya": "assets/art/source/props.png",
+      "tarih": "2026-10-11",
+      "boyut": [
+        128,
+        96
+      ],
+      "durum": "Oyuna eklendi; oyun içi görünüm kontrol edildi",
+      "isleme": "tools/prepare_art.py: atlas çıkarma, hizalama, alfa eşiği, nearest-neighbor ölçekleme",
+      "kullanim_hakki": "Bağlı Higgsfield hesabında üretildi; ayrı bir lisans belgesi alınmadı."
+    },
+    {
+      "dosya": "res://assets/art/nest_final.png",
+      "tur": "gorsel",
+      "kaynak": "Higgsfield / GPT Image 2.5",
+      "is_kimligi": "0de25278-69b1-4633-8c11-b39e8b3fd4e8",
+      "referans_is_kimligi": "76e887f9-e3f8-4890-b40a-6dd421445349",
+      "kaynak_dosya": "assets/art/source/props.png",
+      "tarih": "2026-10-11",
+      "boyut": [
+        128,
+        96
+      ],
+      "durum": "Oyuna eklendi; oyun içi görünüm kontrol edildi",
+      "isleme": "tools/prepare_art.py: atlas çıkarma, hizalama, alfa eşiği, nearest-neighbor ölçekleme",
+      "kullanim_hakki": "Bağlı Higgsfield hesabında üretildi; ayrı bir lisans belgesi alınmadı."
+    },
+    {
+      "dosya": "res://assets/art/harbor.png",
+      "tur": "gorsel",
+      "kaynak": "Higgsfield / GPT Image 2.5",
+      "is_kimligi": "5c0d5cb5-f8fd-4e1e-837e-d46061d98ca3",
+      "referans_is_kimligi": "934a76f6-560b-4fb0-8562-201b47ff0173",
+      "kaynak_dosya": "assets/art/source/harbor.png",
+      "tarih": "2026-10-11",
+      "boyut": [
+        1920,
+        540
+      ],
+      "durum": "Faz 2 oyun içi kontrol tamamlandı",
+      "isleme": "tools/prepare_harbor_art.py",
+      "kullanim_hakki": "Bağlı Higgsfield hesabında üretildi; ayrı lisans belgesi alınmadı."
+    },
+    {
+      "dosya": "res://assets/art/crate.png",
+      "tur": "gorsel",
+      "kaynak": "Higgsfield / GPT Image 2.5",
+      "is_kimligi": "5d95a8cd-202e-4352-b371-ddae1a1ce77e",
+      "referans_is_kimligi": "0de25278-69b1-4633-8c11-b39e8b3fd4e8",
+      "kaynak_dosya": "assets/art/source/harbor_props.png",
+      "tarih": "2026-10-11",
+      "boyut": [
+        64,
+        64
+      ],
+      "durum": "Faz 2 oyun içi kontrol tamamlandı",
+      "isleme": "tools/prepare_harbor_art.py",
+      "kullanim_hakki": "Bağlı Higgsfield hesabında üretildi; ayrı lisans belgesi alınmadı."
+    },
+    {
+      "dosya": "res://assets/art/cloth.png",
+      "tur": "gorsel",
+      "kaynak": "Higgsfield / GPT Image 2.5",
+      "is_kimligi": "5d95a8cd-202e-4352-b371-ddae1a1ce77e",
+      "referans_is_kimligi": "0de25278-69b1-4633-8c11-b39e8b3fd4e8",
+      "kaynak_dosya": "assets/art/source/harbor_props.png",
+      "tarih": "2026-10-11",
+      "boyut": [
+        64,
+        64
+      ],
+      "durum": "Faz 2 oyun içi kontrol tamamlandı",
+      "isleme": "tools/prepare_harbor_art.py",
+      "kullanim_hakki": "Bağlı Higgsfield hesabında üretildi; ayrı lisans belgesi alınmadı."
+    },
+    {
+      "dosya": "res://assets/art/ornament.png",
+      "tur": "gorsel",
+      "kaynak": "Higgsfield / GPT Image 2.5",
+      "is_kimligi": "5d95a8cd-202e-4352-b371-ddae1a1ce77e",
+      "referans_is_kimligi": "0de25278-69b1-4633-8c11-b39e8b3fd4e8",
+      "kaynak_dosya": "assets/art/source/harbor_props.png",
+      "tarih": "2026-10-11",
+      "boyut": [
+        64,
+        64
+      ],
+      "durum": "Faz 2 oyun içi kontrol tamamlandı",
+      "isleme": "tools/prepare_harbor_art.py",
+      "kullanim_hakki": "Bağlı Higgsfield hesabında üretildi; ayrı lisans belgesi alınmadı."
+    },
+    {
+      "dosya": "res://assets/art/lantern.png",
+      "tur": "gorsel",
+      "kaynak": "Higgsfield / GPT Image 2.5",
+      "is_kimligi": "5d95a8cd-202e-4352-b371-ddae1a1ce77e",
+      "referans_is_kimligi": "0de25278-69b1-4633-8c11-b39e8b3fd4e8",
+      "kaynak_dosya": "assets/art/source/harbor_props.png",
+      "tarih": "2026-10-11",
+      "boyut": [
+        64,
+        64
+      ],
+      "durum": "Faz 2 oyun içi kontrol tamamlandı",
+      "isleme": "tools/prepare_harbor_art.py",
+      "kullanim_hakki": "Bağlı Higgsfield hesabında üretildi; ayrı lisans belgesi alınmadı."
+    },
+    {
+      "dosya": "res://assets/art/chime.png",
+      "tur": "gorsel",
+      "kaynak": "Higgsfield / GPT Image 2.5",
+      "is_kimligi": "5d95a8cd-202e-4352-b371-ddae1a1ce77e",
+      "referans_is_kimligi": "0de25278-69b1-4633-8c11-b39e8b3fd4e8",
+      "kaynak_dosya": "assets/art/source/harbor_props.png",
+      "tarih": "2026-10-11",
+      "boyut": [
+        64,
+        64
+      ],
+      "durum": "Faz 2 oyun içi kontrol tamamlandı",
+      "isleme": "tools/prepare_harbor_art.py",
+      "kullanim_hakki": "Bağlı Higgsfield hesabında üretildi; ayrı lisans belgesi alınmadı."
+    },
+    {
+      "dosya": "res://assets/art/medal.png",
+      "tur": "gorsel",
+      "kaynak": "Higgsfield / GPT Image 2.5",
+      "is_kimligi": "5d95a8cd-202e-4352-b371-ddae1a1ce77e",
+      "referans_is_kimligi": "0de25278-69b1-4633-8c11-b39e8b3fd4e8",
+      "kaynak_dosya": "assets/art/source/harbor_props.png",
+      "tarih": "2026-10-11",
+      "boyut": [
+        32,
+        32
+      ],
+      "durum": "Faz 2 oyun içi kontrol tamamlandı",
+      "isleme": "tools/prepare_harbor_art.py",
+      "kullanim_hakki": "Bağlı Higgsfield hesabında üretildi; ayrı lisans belgesi alınmadı."
+    },
+    {
+      "dosya": "res://assets/art/special_dugme.png",
+      "tur": "gorsel",
+      "kaynak": "Higgsfield / GPT Image 2.5",
+      "is_kimligi": "1b1a5fbe-5126-4185-958e-47ec9f99744a",
+      "referans_is_kimligi": "0de25278-69b1-4633-8c11-b39e8b3fd4e8",
+      "kaynak_dosya": "assets/art/source/collectibles.png",
+      "tarih": "2026-10-11",
+      "boyut": [
+        32,
+        32
+      ],
+      "durum": "Faz 2 oyun içi kontrol tamamlandı",
+      "isleme": "tools/prepare_harbor_art.py",
+      "kullanim_hakki": "Bağlı Higgsfield hesabında üretildi; ayrı lisans belgesi alınmadı."
+    },
+    {
+      "dosya": "res://assets/art/special_yuzuk.png",
+      "tur": "gorsel",
+      "kaynak": "Higgsfield / GPT Image 2.5",
+      "is_kimligi": "1b1a5fbe-5126-4185-958e-47ec9f99744a",
+      "referans_is_kimligi": "0de25278-69b1-4633-8c11-b39e8b3fd4e8",
+      "kaynak_dosya": "assets/art/source/collectibles.png",
+      "tarih": "2026-10-11",
+      "boyut": [
+        32,
+        32
+      ],
+      "durum": "Faz 2 oyun içi kontrol tamamlandı",
+      "isleme": "tools/prepare_harbor_art.py",
+      "kullanim_hakki": "Bağlı Higgsfield hesabında üretildi; ayrı lisans belgesi alınmadı."
+    },
+    {
+      "dosya": "res://assets/art/special_boncuk.png",
+      "tur": "gorsel",
+      "kaynak": "Higgsfield / GPT Image 2.5",
+      "is_kimligi": "1b1a5fbe-5126-4185-958e-47ec9f99744a",
+      "referans_is_kimligi": "0de25278-69b1-4633-8c11-b39e8b3fd4e8",
+      "kaynak_dosya": "assets/art/source/collectibles.png",
+      "tarih": "2026-10-11",
+      "boyut": [
+        32,
+        32
+      ],
+      "durum": "Faz 2 oyun içi kontrol tamamlandı",
+      "isleme": "tools/prepare_harbor_art.py",
+      "kullanim_hakki": "Bağlı Higgsfield hesabında üretildi; ayrı lisans belgesi alınmadı."
+    },
+    {
+      "dosya": "res://assets/art/special_saat.png",
+      "tur": "gorsel",
+      "kaynak": "Higgsfield / GPT Image 2.5",
+      "is_kimligi": "1b1a5fbe-5126-4185-958e-47ec9f99744a",
+      "referans_is_kimligi": "0de25278-69b1-4633-8c11-b39e8b3fd4e8",
+      "kaynak_dosya": "assets/art/source/collectibles.png",
+      "tarih": "2026-10-11",
+      "boyut": [
+        32,
+        32
+      ],
+      "durum": "Faz 2 oyun içi kontrol tamamlandı",
+      "isleme": "tools/prepare_harbor_art.py",
+      "kullanim_hakki": "Bağlı Higgsfield hesabında üretildi; ayrı lisans belgesi alınmadı."
+    },
+    {
+      "dosya": "res://assets/art/special_kabuk.png",
+      "tur": "gorsel",
+      "kaynak": "Higgsfield / GPT Image 2.5",
+      "is_kimligi": "1b1a5fbe-5126-4185-958e-47ec9f99744a",
+      "referans_is_kimligi": "0de25278-69b1-4633-8c11-b39e8b3fd4e8",
+      "kaynak_dosya": "assets/art/source/collectibles.png",
+      "tarih": "2026-10-11",
+      "boyut": [
+        32,
+        32
+      ],
+      "durum": "Faz 2 oyun içi kontrol tamamlandı",
+      "isleme": "tools/prepare_harbor_art.py",
+      "kullanim_hakki": "Bağlı Higgsfield hesabında üretildi; ayrı lisans belgesi alınmadı."
+    },
+    {
+      "dosya": "res://assets/art/special_pusula.png",
+      "tur": "gorsel",
+      "kaynak": "Higgsfield / GPT Image 2.5",
+      "is_kimligi": "1b1a5fbe-5126-4185-958e-47ec9f99744a",
+      "referans_is_kimligi": "0de25278-69b1-4633-8c11-b39e8b3fd4e8",
+      "kaynak_dosya": "assets/art/source/collectibles.png",
+      "tarih": "2026-10-11",
+      "boyut": [
+        32,
+        32
+      ],
+      "durum": "Faz 2 oyun içi kontrol tamamlandı",
+      "isleme": "tools/prepare_harbor_art.py",
+      "kullanim_hakki": "Bağlı Higgsfield hesabında üretildi; ayrı lisans belgesi alınmadı."
+    },
+    {
+      "dosya": "res://assets/art/special_tas.png",
+      "tur": "gorsel",
+      "kaynak": "Higgsfield / GPT Image 2.5",
+      "is_kimligi": "1b1a5fbe-5126-4185-958e-47ec9f99744a",
+      "referans_is_kimligi": "0de25278-69b1-4633-8c11-b39e8b3fd4e8",
+      "kaynak_dosya": "assets/art/source/collectibles.png",
+      "tarih": "2026-10-11",
+      "boyut": [
+        32,
+        32
+      ],
+      "durum": "Faz 2 oyun içi kontrol tamamlandı",
+      "isleme": "tools/prepare_harbor_art.py",
+      "kullanim_hakki": "Bağlı Higgsfield hesabında üretildi; ayrı lisans belgesi alınmadı."
+    },
+    {
+      "dosya": "res://assets/art/special_madalya.png",
+      "tur": "gorsel",
+      "kaynak": "Higgsfield / GPT Image 2.5",
+      "is_kimligi": "1b1a5fbe-5126-4185-958e-47ec9f99744a",
+      "referans_is_kimligi": "0de25278-69b1-4633-8c11-b39e8b3fd4e8",
+      "kaynak_dosya": "assets/art/source/collectibles.png",
+      "tarih": "2026-10-11",
+      "boyut": [
+        32,
+        32
+      ],
+      "durum": "Faz 2 oyun içi kontrol tamamlandı",
+      "isleme": "tools/prepare_harbor_art.py",
+      "kullanim_hakki": "Bağlı Higgsfield hesabında üretildi; ayrı lisans belgesi alınmadı."
+    },
+    {
+      "dosya": "res://assets/audio/rooftops.wav",
+      "tur": "ses",
+      "kaynak": "Özgün matematiksel sentez; tools/prepare_music.py",
+      "tarih": "2026-10-11",
+      "durum": "Bölgeye göre çalınır; ses kapatma ve duraklatmaya bağlı"
+    },
+    {
+      "dosya": "res://assets/audio/harbor.wav",
+      "tur": "ses",
+      "kaynak": "Özgün matematiksel sentez; tools/prepare_music.py",
+      "tarih": "2026-10-11",
+      "durum": "Bölgeye göre çalınır; ses kapatma ve duraklatmaya bağlı"
+    }
+  ]
+}

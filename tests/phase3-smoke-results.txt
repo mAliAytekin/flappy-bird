@@ -1,0 +1,95 @@
+Godot Engine v4.7.2.stable.official.ed1daf0bf - https://godotengine.org
+
+OK: Sekiz bölüm verisi geçerli
+OK: Yinelenen nesne reddedildi
+OK: Bilinmeyen nesne reddedildi
+OK: Ara teslim işlendi
+OK: Ara teslim bölüm açmaz
+OK: Aynı teslim iki kez işlenmez
+OK: İlerleme diskten geri yüklendi
+OK: CATI_01 yük=0 son yuvaya erişim (x=8290)
+OK: CATI_01 yük=1 son yuvaya erişim (x=8290)
+OK: CATI_01 yük=2 son yuvaya erişim (x=8290)
+OK: CATI_01 yük=3 son yuvaya erişim (x=8290)
+OK: CATI_01 yük=4 son yuvaya erişim (x=8290)
+OK: CATI_01 yük=5 son yuvaya erişim (x=8290)
+OK: CATI_01 yük=6 son yuvaya erişim (x=8290)
+OK: CATI_02 yük=0 son yuvaya erişim (x=10792)
+OK: CATI_02 yük=1 son yuvaya erişim (x=10792)
+OK: CATI_02 yük=2 son yuvaya erişim (x=10792)
+OK: CATI_02 yük=3 son yuvaya erişim (x=10792)
+OK: CATI_02 yük=4 son yuvaya erişim (x=10792)
+OK: CATI_02 yük=5 son yuvaya erişim (x=10792)
+OK: CATI_02 yük=6 son yuvaya erişim (x=10792)
+OK: CATI_03 yük=0 son yuvaya erişim (x=11791)
+OK: CATI_03 yük=1 son yuvaya erişim (x=11791)
+OK: CATI_03 yük=2 son yuvaya erişim (x=11791)
+OK: CATI_03 yük=3 son yuvaya erişim (x=11791)
+OK: CATI_03 yük=4 son yuvaya erişim (x=11791)
+OK: CATI_03 yük=5 son yuvaya erişim (x=11791)
+OK: CATI_03 yük=6 son yuvaya erişim (x=11791)
+OK: CATI_04 yük=0 son yuvaya erişim (x=13792)
+OK: CATI_04 yük=1 son yuvaya erişim (x=13792)
+OK: CATI_04 yük=2 son yuvaya erişim (x=13792)
+OK: CATI_04 yük=3 son yuvaya erişim (x=13792)
+OK: CATI_04 yük=4 son yuvaya erişim (x=13792)
+OK: CATI_04 yük=5 son yuvaya erişim (x=13792)
+OK: CATI_04 yük=6 son yuvaya erişim (x=13792)
+OK: LIMAN_01 yük=0 son yuvaya erişim (x=10990)
+OK: LIMAN_01 yük=1 son yuvaya erişim (x=10990)
+OK: LIMAN_01 yük=2 son yuvaya erişim (x=10990)
+OK: LIMAN_01 yük=3 son yuvaya erişim (x=10990)
+OK: LIMAN_01 yük=4 son yuvaya erişim (x=10990)
+OK: LIMAN_01 yük=5 son yuvaya erişim (x=10990)
+OK: LIMAN_01 yük=6 son yuvaya erişim (x=10990)
+OK: LIMAN_02 yük=0 son yuvaya erişim (x=13792)
+OK: LIMAN_02 yük=1 son yuvaya erişim (x=13792)
+OK: LIMAN_02 yük=2 son yuvaya erişim (x=13792)
+OK: LIMAN_02 yük=3 son yuvaya erişim (x=13792)
+OK: LIMAN_02 yük=4 son yuvaya erişim (x=13792)
+OK: LIMAN_02 yük=5 son yuvaya erişim (x=13792)
+OK: LIMAN_02 yük=6 son yuvaya erişim (x=13792)
+OK: LIMAN_03 yük=0 son yuvaya erişim (x=15190)
+OK: LIMAN_03 yük=1 son yuvaya erişim (x=15190)
+OK: LIMAN_03 yük=2 son yuvaya erişim (x=15190)
+OK: LIMAN_03 yük=3 son yuvaya erişim (x=15190)
+OK: LIMAN_03 yük=4 son yuvaya erişim (x=15190)
+OK: LIMAN_03 yük=5 son yuvaya erişim (x=15190)
+OK: LIMAN_03 yük=6 son yuvaya erişim (x=15190)
+OK: LIMAN_04 yük=0 son yuvaya erişim (x=16891)
+OK: LIMAN_04 yük=1 son yuvaya erişim (x=16891)
+OK: LIMAN_04 yük=2 son yuvaya erişim (x=16891)
+OK: LIMAN_04 yük=3 son yuvaya erişim (x=16891)
+OK: LIMAN_04 yük=4 son yuvaya erişim (x=16891)
+OK: LIMAN_04 yük=5 son yuvaya erişim (x=16891)
+OK: LIMAN_04 yük=6 son yuvaya erişim (x=16891)
+OK: Gerçek oyun akışında ara yuva
+OK: Çarpışma eski bakiyeyi korur
+OK: Duraklatma fiziği durdurur
+OK: Duraklatmadan dönüş
+OK: Yeniden başlatma oturumu temizler
+OK: Kapak toplama ağırlık ve değer ekler
+OK: Aynı eşya tekrar toplanmaz
+OK: Kapasite üstündeki eşya alınmaz
+OK: Faz 1 kaydı kayıpsız sürüm 3'e geçti
+OK: Eski CATI_04 başarısı Liman'ı açar
+OK: Dekor satın alma bedeli bir kez düşülür
+OK: Aynı dekor ikinci kez satın alınamaz
+OK: Dekor kaldırmak sahipliği korur
+OK: Yetersiz bakiye satın almaya izin vermez
+OK: Hatıra teslimi tekilleşir ve bölüm açmaz
+OK: Koleksiyon ve dekor diskten geri yüklendi
+OK: Rüzgâr yalnızca alanının içinde etkili
+OK: Salınım sabit periyotta aynı konuma döner
+OK: Duraklatma hareketli engel zamanını dondurur
+OK: Yeniden deneme salınım evresini sıfırlar
+OK: Sallanan yükün gerçek konumunda çarpışma oluşur
+OK: Hatıra almak henüz kalıcı kazanım değildir
+OK: Çarpışmada taşınan hatıra kazanılmaz
+OK: Yuva teslimi hatırayı kalıcı kaydeder
+OK: Sıfır salınım periyodu reddedilir
+OK: Aşırı rüzgâr verisi reddedilir
+OK: Yukarı rüzgâr oyun fiziğinde düşüşü azaltır
+OK: Dekorlar kanat gücünü değiştirmez
+OK: Bozuk kayıt yedekten kurtarıldı
+SONUÇ: 0 hata

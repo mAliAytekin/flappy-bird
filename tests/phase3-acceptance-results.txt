@@ -1,0 +1,43 @@
+Godot Engine v4.7.2.stable.official.ed1daf0bf - https://godotengine.org
+
+OK: Müzik ve efekt kaydırıcıları ayrı ayarları değiştirir
+OK: Ayarlar kaydedilip menüye dönülür
+OK: Yardımcı hız 0.75 aynı simülasyon sonucunu üretir
+OK: Yardımcı hız 0.75 engelle aynı zamanı kullanır
+OK: Yardımcı hız 0.5 aynı simülasyon sonucunu üretir
+OK: Yardımcı hız 0.5 engelle aynı zamanı kullanır
+OK: Uçuş tuşu yeniden atanabilir
+OK: Çakışan tuş ataması reddedilir
+OK: Esc güvenli çıkış olarak korunur
+OK: Ayarlar diske yazılıp geri yüklenir
+OK: Sürüm 2 kaydı yeni ayarlara kayıpsız geçer
+OK: Sürüm geçişi eski kaydı yedekler
+OK: Daha yeni kayıt eski yedeğe dönülerek ezilmez
+OK: Yedeksiz bozuk kayıt korunur
+OK: Disk yazımı başarısızsa teslim geri alınır
+OK: Başarısız teslim yeniden denenebilir
+OK: Dokuzuncu bölüm yalnızca veri ve katalogla yüklenir
+OK: Temiz ilerleme: CATI_01 açılabilir
+OK: Temiz ilerleme: CATI_01 tamamlandı
+OK: Temiz ilerleme: CATI_02 açılabilir
+OK: Temiz ilerleme: CATI_02 tamamlandı
+OK: Temiz ilerleme: CATI_03 açılabilir
+OK: Temiz ilerleme: CATI_03 tamamlandı
+OK: Temiz ilerleme: CATI_04 açılabilir
+OK: Temiz ilerleme: CATI_04 tamamlandı
+OK: Temiz ilerleme: LIMAN_01 açılabilir
+OK: Temiz ilerleme: LIMAN_01 tamamlandı
+OK: Temiz ilerleme: LIMAN_02 açılabilir
+OK: Temiz ilerleme: LIMAN_02 tamamlandı
+OK: Temiz ilerleme: LIMAN_03 açılabilir
+OK: Temiz ilerleme: LIMAN_03 tamamlandı
+OK: Temiz ilerleme: LIMAN_04 açılabilir
+OK: Temiz ilerleme: LIMAN_04 tamamlandı
+OK: Yeni bölüm çekirdek kod değişmeden oynanıp kaydedilir
+OK: Yeni bölümün menü sayfası erişilebilir
+OK: Yeni bölümün koleksiyon sayfası erişilebilir
+OK: Hatalı önkoşul anlaşılır hata verir
+OK: Döngüsel önkoşul reddedilir
+OK: Eksik bölüm dosyası oyunu çökertmez
+OK: Yinelenen bölüm kimliği reddedilir
+SONUÇ: 40 kontrol, 0 hata

@@ -1,0 +1,355 @@
+{
+  "sema_surumu": 1,
+  "kimlik": "CATI_02",
+  "ad": "Parlayan Yük",
+  "ipucu": "Kaşık değerlidir ama ağırdır. Alt yuvaya girerek erken teslim edebilirsin.",
+  "bolge": "cati",
+  "uzunluk": 11000,
+  "deger_hedefi": 6,
+  "nesneler": [
+    {
+      "kimlik": "nesne_0",
+      "tur": "baca",
+      "x": 1050,
+      "y": 72.5,
+      "w": 76,
+      "h": 145.0
+    },
+    {
+      "kimlik": "nesne_1",
+      "tur": "baca",
+      "x": 1050,
+      "y": 447.5,
+      "w": 76,
+      "h": 125.0
+    },
+    {
+      "kimlik": "nesne_2",
+      "tur": "ganimet",
+      "x": 1170,
+      "y": 265,
+      "esya": "kapak"
+    },
+    {
+      "kimlik": "nesne_3",
+      "tur": "baca",
+      "x": 1630,
+      "y": 55.0,
+      "w": 76,
+      "h": 110.0
+    },
+    {
+      "kimlik": "nesne_4",
+      "tur": "baca",
+      "x": 1630,
+      "y": 430.0,
+      "w": 76,
+      "h": 160.0
+    },
+    {
+      "kimlik": "nesne_5",
+      "tur": "ganimet",
+      "x": 1750,
+      "y": 230,
+      "esya": "kasik"
+    },
+    {
+      "kimlik": "nesne_6",
+      "tur": "baca",
+      "x": 2210,
+      "y": 85.0,
+      "w": 76,
+      "h": 170.0
+    },
+    {
+      "kimlik": "nesne_7",
+      "tur": "baca",
+      "x": 2210,
+      "y": 460.0,
+      "w": 76,
+      "h": 100.0
+    },
+    {
+      "kimlik": "nesne_8",
+      "tur": "ganimet",
+      "x": 2330,
+      "y": 290,
+      "esya": "kapak"
+    },
+    {
+      "kimlik": "nesne_9",
+      "tur": "baca",
+      "x": 2790,
+      "y": 65.0,
+      "w": 76,
+      "h": 130.0
+    },
+    {
+      "kimlik": "nesne_10",
+      "tur": "baca",
+      "x": 2790,
+      "y": 440.0,
+      "w": 76,
+      "h": 140.0
+    },
+    {
+      "kimlik": "nesne_11",
+      "tur": "ganimet",
+      "x": 2910,
+      "y": 250,
+      "esya": "kapak"
+    },
+    {
+      "kimlik": "nesne_12",
+      "tur": "baca",
+      "x": 3370,
+      "y": 72.5,
+      "w": 76,
+      "h": 145.0
+    },
+    {
+      "kimlik": "nesne_13",
+      "tur": "baca",
+      "x": 3370,
+      "y": 447.5,
+      "w": 76,
+      "h": 125.0
+    },
+    {
+      "kimlik": "nesne_14",
+      "tur": "ganimet",
+      "x": 3490,
+      "y": 265,
+      "esya": "kasik"
+    },
+    {
+      "kimlik": "nesne_15",
+      "tur": "baca",
+      "x": 3950,
+      "y": 55.0,
+      "w": 76,
+      "h": 110.0
+    },
+    {
+      "kimlik": "nesne_16",
+      "tur": "baca",
+      "x": 3950,
+      "y": 430.0,
+      "w": 76,
+      "h": 160.0
+    },
+    {
+      "kimlik": "nesne_17",
+      "tur": "ganimet",
+      "x": 4070,
+      "y": 230,
+      "esya": "kapak"
+    },
+    {
+      "kimlik": "nesne_18",
+      "tur": "baca",
+      "x": 4530,
+      "y": 85.0,
+      "w": 76,
+      "h": 170.0
+    },
+    {
+      "kimlik": "nesne_19",
+      "tur": "baca",
+      "x": 4530,
+      "y": 460.0,
+      "w": 76,
+      "h": 100.0
+    },
+    {
+      "kimlik": "nesne_20",
+      "tur": "ganimet",
+      "x": 4650,
+      "y": 290,
+      "esya": "kapak"
+    },
+    {
+      "kimlik": "nesne_21",
+      "tur": "baca",
+      "x": 5110,
+      "y": 65.0,
+      "w": 76,
+      "h": 130.0
+    },
+    {
+      "kimlik": "nesne_22",
+      "tur": "baca",
+      "x": 5110,
+      "y": 440.0,
+      "w": 76,
+      "h": 140.0
+    },
+    {
+      "kimlik": "nesne_23",
+      "tur": "ganimet",
+      "x": 5230,
+      "y": 250,
+      "esya": "kasik"
+    },
+    {
+      "kimlik": "nesne_24",
+      "tur": "baca",
+      "x": 5690,
+      "y": 72.5,
+      "w": 76,
+      "h": 145.0
+    },
+    {
+      "kimlik": "nesne_25",
+      "tur": "baca",
+      "x": 5690,
+      "y": 447.5,
+      "w": 76,
+      "h": 125.0
+    },
+    {
+      "kimlik": "nesne_26",
+      "tur": "ganimet",
+      "x": 5810,
+      "y": 265,
+      "esya": "kapak"
+    },
+    {
+      "kimlik": "nesne_27",
+      "tur": "baca",
+      "x": 7430,
+      "y": 65.0,
+      "w": 76,
+      "h": 130.0
+    },
+    {
+      "kimlik": "nesne_28",
+      "tur": "baca",
+      "x": 7430,
+      "y": 440.0,
+      "w": 76,
+      "h": 140.0
+    },
+    {
+      "kimlik": "nesne_29",
+      "tur": "ganimet",
+      "x": 7550,
+      "y": 250,
+      "esya": "kapak"
+    },
+    {
+      "kimlik": "nesne_30",
+      "tur": "baca",
+      "x": 8010,
+      "y": 72.5,
+      "w": 76,
+      "h": 145.0
+    },
+    {
+      "kimlik": "nesne_31",
+      "tur": "baca",
+      "x": 8010,
+      "y": 447.5,
+      "w": 76,
+      "h": 125.0
+    },
+    {
+      "kimlik": "nesne_32",
+      "tur": "ganimet",
+      "x": 8130,
+      "y": 265,
+      "esya": "kapak"
+    },
+    {
+      "kimlik": "nesne_33",
+      "tur": "baca",
+      "x": 8590,
+      "y": 55.0,
+      "w": 76,
+      "h": 110.0
+    },
+    {
+      "kimlik": "nesne_34",
+      "tur": "baca",
+      "x": 8590,
+      "y": 430.0,
+      "w": 76,
+      "h": 160.0
+    },
+    {
+      "kimlik": "nesne_35",
+      "tur": "ganimet",
+      "x": 8710,
+      "y": 230,
+      "esya": "kasik"
+    },
+    {
+      "kimlik": "nesne_36",
+      "tur": "baca",
+      "x": 9170,
+      "y": 85.0,
+      "w": 76,
+      "h": 170.0
+    },
+    {
+      "kimlik": "nesne_37",
+      "tur": "baca",
+      "x": 9170,
+      "y": 460.0,
+      "w": 76,
+      "h": 100.0
+    },
+    {
+      "kimlik": "nesne_38",
+      "tur": "ganimet",
+      "x": 9290,
+      "y": 290,
+      "esya": "kapak"
+    },
+    {
+      "kimlik": "nesne_39",
+      "tur": "baca",
+      "x": 9750,
+      "y": 65.0,
+      "w": 76,
+      "h": 130.0
+    },
+    {
+      "kimlik": "nesne_40",
+      "tur": "baca",
+      "x": 9750,
+      "y": 440.0,
+      "w": 76,
+      "h": 140.0
+    },
+    {
+      "kimlik": "nesne_41",
+      "tur": "ganimet",
+      "x": 9870,
+      "y": 250,
+      "esya": "kapak"
+    },
+    {
+      "kimlik": "nesne_42",
+      "tur": "yuva",
+      "x": 6600,
+      "y": 414,
+      "son": false
+    },
+    {
+      "kimlik": "nesne_43",
+      "tur": "ozel_esya",
+      "x": 10350,
+      "y": 150
+    },
+    {
+      "kimlik": "nesne_44",
+      "tur": "yuva",
+      "x": 10820,
+      "y": 270,
+      "son": true
+    }
+  ],
+  "ozel_esya_adi": "Gümüş yüzük",
+  "ozel_esya_turu": "yuzuk"
+}

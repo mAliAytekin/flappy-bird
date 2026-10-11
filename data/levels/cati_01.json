@@ -1,0 +1,302 @@
+{
+  "sema_surumu": 1,
+  "kimlik": "CATI_01",
+  "ad": "İlk Kanat",
+  "ipucu": "Boşluk veya tıkla: kanat çırp. Son yuvaya ulaş!",
+  "bolge": "cati",
+  "uzunluk": 8500,
+  "deger_hedefi": 4,
+  "nesneler": [
+    {
+      "kimlik": "nesne_0",
+      "tur": "baca",
+      "x": 1050,
+      "y": 66.25,
+      "w": 76,
+      "h": 132.5
+    },
+    {
+      "kimlik": "nesne_1",
+      "tur": "baca",
+      "x": 1050,
+      "y": 453.75,
+      "w": 76,
+      "h": 112.5
+    },
+    {
+      "kimlik": "nesne_2",
+      "tur": "ganimet",
+      "x": 1170,
+      "y": 265,
+      "esya": "kapak"
+    },
+    {
+      "kimlik": "nesne_3",
+      "tur": "baca",
+      "x": 1630,
+      "y": 48.75,
+      "w": 76,
+      "h": 97.5
+    },
+    {
+      "kimlik": "nesne_4",
+      "tur": "baca",
+      "x": 1630,
+      "y": 436.25,
+      "w": 76,
+      "h": 147.5
+    },
+    {
+      "kimlik": "nesne_5",
+      "tur": "ganimet",
+      "x": 1750,
+      "y": 230,
+      "esya": "kapak"
+    },
+    {
+      "kimlik": "nesne_6",
+      "tur": "baca",
+      "x": 2210,
+      "y": 78.75,
+      "w": 76,
+      "h": 157.5
+    },
+    {
+      "kimlik": "nesne_7",
+      "tur": "baca",
+      "x": 2210,
+      "y": 466.25,
+      "w": 76,
+      "h": 87.5
+    },
+    {
+      "kimlik": "nesne_8",
+      "tur": "ganimet",
+      "x": 2330,
+      "y": 290,
+      "esya": "kapak"
+    },
+    {
+      "kimlik": "nesne_9",
+      "tur": "baca",
+      "x": 2790,
+      "y": 58.75,
+      "w": 76,
+      "h": 117.5
+    },
+    {
+      "kimlik": "nesne_10",
+      "tur": "baca",
+      "x": 2790,
+      "y": 446.25,
+      "w": 76,
+      "h": 127.5
+    },
+    {
+      "kimlik": "nesne_11",
+      "tur": "ganimet",
+      "x": 2910,
+      "y": 250,
+      "esya": "kapak"
+    },
+    {
+      "kimlik": "nesne_12",
+      "tur": "baca",
+      "x": 3370,
+      "y": 66.25,
+      "w": 76,
+      "h": 132.5
+    },
+    {
+      "kimlik": "nesne_13",
+      "tur": "baca",
+      "x": 3370,
+      "y": 453.75,
+      "w": 76,
+      "h": 112.5
+    },
+    {
+      "kimlik": "nesne_14",
+      "tur": "ganimet",
+      "x": 3490,
+      "y": 265,
+      "esya": "kapak"
+    },
+    {
+      "kimlik": "nesne_15",
+      "tur": "baca",
+      "x": 3950,
+      "y": 48.75,
+      "w": 76,
+      "h": 97.5
+    },
+    {
+      "kimlik": "nesne_16",
+      "tur": "baca",
+      "x": 3950,
+      "y": 436.25,
+      "w": 76,
+      "h": 147.5
+    },
+    {
+      "kimlik": "nesne_17",
+      "tur": "ganimet",
+      "x": 4070,
+      "y": 230,
+      "esya": "kapak"
+    },
+    {
+      "kimlik": "nesne_18",
+      "tur": "baca",
+      "x": 4530,
+      "y": 78.75,
+      "w": 76,
+      "h": 157.5
+    },
+    {
+      "kimlik": "nesne_19",
+      "tur": "baca",
+      "x": 4530,
+      "y": 466.25,
+      "w": 76,
+      "h": 87.5
+    },
+    {
+      "kimlik": "nesne_20",
+      "tur": "ganimet",
+      "x": 4650,
+      "y": 290,
+      "esya": "kapak"
+    },
+    {
+      "kimlik": "nesne_21",
+      "tur": "baca",
+      "x": 5110,
+      "y": 58.75,
+      "w": 76,
+      "h": 117.5
+    },
+    {
+      "kimlik": "nesne_22",
+      "tur": "baca",
+      "x": 5110,
+      "y": 446.25,
+      "w": 76,
+      "h": 127.5
+    },
+    {
+      "kimlik": "nesne_23",
+      "tur": "ganimet",
+      "x": 5230,
+      "y": 250,
+      "esya": "kapak"
+    },
+    {
+      "kimlik": "nesne_24",
+      "tur": "baca",
+      "x": 5690,
+      "y": 66.25,
+      "w": 76,
+      "h": 132.5
+    },
+    {
+      "kimlik": "nesne_25",
+      "tur": "baca",
+      "x": 5690,
+      "y": 453.75,
+      "w": 76,
+      "h": 112.5
+    },
+    {
+      "kimlik": "nesne_26",
+      "tur": "ganimet",
+      "x": 5810,
+      "y": 265,
+      "esya": "kapak"
+    },
+    {
+      "kimlik": "nesne_27",
+      "tur": "baca",
+      "x": 6270,
+      "y": 48.75,
+      "w": 76,
+      "h": 97.5
+    },
+    {
+      "kimlik": "nesne_28",
+      "tur": "baca",
+      "x": 6270,
+      "y": 436.25,
+      "w": 76,
+      "h": 147.5
+    },
+    {
+      "kimlik": "nesne_29",
+      "tur": "ganimet",
+      "x": 6390,
+      "y": 230,
+      "esya": "kapak"
+    },
+    {
+      "kimlik": "nesne_30",
+      "tur": "baca",
+      "x": 6850,
+      "y": 78.75,
+      "w": 76,
+      "h": 157.5
+    },
+    {
+      "kimlik": "nesne_31",
+      "tur": "baca",
+      "x": 6850,
+      "y": 466.25,
+      "w": 76,
+      "h": 87.5
+    },
+    {
+      "kimlik": "nesne_32",
+      "tur": "ganimet",
+      "x": 6970,
+      "y": 290,
+      "esya": "kapak"
+    },
+    {
+      "kimlik": "nesne_33",
+      "tur": "baca",
+      "x": 7430,
+      "y": 58.75,
+      "w": 76,
+      "h": 117.5
+    },
+    {
+      "kimlik": "nesne_34",
+      "tur": "baca",
+      "x": 7430,
+      "y": 446.25,
+      "w": 76,
+      "h": 127.5
+    },
+    {
+      "kimlik": "nesne_35",
+      "tur": "ganimet",
+      "x": 7550,
+      "y": 250,
+      "esya": "kapak"
+    },
+    {
+      "kimlik": "nesne_36",
+      "tur": "ozel_esya",
+      "x": 7850,
+      "y": 150
+    },
+    {
+      "kimlik": "nesne_37",
+      "tur": "yuva",
+      "x": 8320,
+      "y": 270,
+      "son": true
+    }
+  ],
+  "ozel_esya_adi": "Kırmızı düğme",
+  "ozel_esya_turu": "dugme"
+}
